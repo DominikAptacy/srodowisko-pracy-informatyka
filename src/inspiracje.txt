@@ -1,0 +1,28 @@
+Inspiracje do projektu "FocusFlow – aplikacja do zarządzania czasem skupienia":
+
+1. RescueTime – automatyczne monitorowanie aktywności, raporty produktywności, blokowanie rozpraszaczy.
+2. Forest – motywacja do skupienia przez sadzenie wirtualnych drzew podczas pracy.
+3. Freedom – blokowanie stron i aplikacji na różnych urządzeniach.
+4. Pomodone – integracja techniki Pomodoro z narzędziami do zarządzania zadaniami.
+5. Cold Turkey – zaawansowane blokowanie stron i aplikacji, harmonogramy blokad.
+6. Focus@Will – muzyka wspierająca koncentrację, personalizowane sesje.
+7. Todoist + Pomodoro – połączenie zarządzania zadaniami z techniką Pomodoro.
+8. Headspace – krótkie medytacje i ćwiczenia oddechowe wspierające relaks.
+9. Habitica – grywalizacja produktywności, wyzwania i współpraca z innymi.
+10. Google Calendar/Outlook – integracja z kalendarzem, planowanie bloków pracy.
+
+Inspiracje funkcjonalne:
+- Automatyczne wykrywanie rozpraszaczy i sugestie blokad.
+- Personalizowane raporty produktywności z wykresami.
+- Wspólne wyzwania i rankingi produktywności.
+- Przypomnienia o przerwach i ćwiczeniach relaksacyjnych.
+- Integracja z urządzeniami mobilnymi i desktopowymi.
+
+Inspiracje technologiczne:
+- Użycie WebExtensions API do blokowania stron w przeglądarce.
+- WebSockety do powiadomień w czasie rzeczywistym.
+- Integracja OAuth2 z Google/Outlook.
+- Responsywny interfejs użytkownika (React/Svelte).
+- Analiza danych w czasie rzeczywistym (np. z użyciem MongoDB Aggregation Framework).
+
+Te inspiracje mogą pomóc w zaprojektowaniu unikalnej i skutecznej aplikacji FocusFlow.

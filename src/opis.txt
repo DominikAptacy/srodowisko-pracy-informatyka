@@ -1,0 +1,21 @@
+Pomysł na projekt: Aplikacja do zarządzania czasem skupienia (FocusFlow)
+
+Opis projektu:
+Celem projektu jest stworzenie aplikacji, która pomaga użytkownikom zarządzać czasem pracy w trybie głębokiego skupienia (deep work). Użytkownik może planować sesje skupienia, blokować rozpraszające strony/aplikacje, monitorować czas pracy oraz analizować produktywność. Aplikacja oferuje także techniki relaksacyjne i krótkie przerwy zgodnie z metodą Pomodoro.
+
+Funkcjonalności:
+1. Planowanie i harmonogramowanie sesji skupienia.
+2. Blokowanie wybranych stron internetowych/aplikacji podczas pracy.
+3. Statystyki i raporty produktywności.
+4. Integracja z kalendarzem (Google/Outlook).
+5. Powiadomienia o rozpoczęciu i zakończeniu sesji oraz przerwach.
+6. Wbudowane techniki relaksacyjne (np. ćwiczenia oddechowe, krótkie medytacje).
+7. Personalizacja długości sesji i przerw.
+8. Tryb rywalizacji – wyzwania produktywności z innymi użytkownikami.
+
+Technologie:
+- Backend: Node.js (Express) lub Python (FastAPI)
+- Frontend: React lub Svelte
+- Baza danych: MongoDB lub PostgreSQL
+
+Projekt ten pomoże użytkownikom zwiększyć efektywność pracy, ograniczyć rozpraszacze i zadbać o równowagę między skupieniem a odpoczynkiem.
